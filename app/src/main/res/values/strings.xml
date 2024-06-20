@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prac11Danilova</string>
+    <string-array name="planets_array">
+        <item>ВЫ ПРОБЕЖАЛИ 1.3 КМ</item>
+        <item>СОЖГЛИ 59 КИЛОКАЛЛОРИЙ</item>
+        <item>ПРОШЛО 30 МИН</item>
+        <item>1583 ШАГА</item>
+    </string-array>
+</resources>
